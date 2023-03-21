@@ -17,7 +17,7 @@ Before installing the game, make sure you have installed Node.js and the Expo CL
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/guess-my-number.git
+git clone https://github.com/subhamBharadwaz/guess-my-number.git
 ```
 
 2. Change directory to the project folder
