@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { StyleSheet, View, Alert, FlatList, ScrollView } from "react-native";
+import { StyleSheet, View, Alert, FlatList } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 
 import NumberContainer from "../components/game/NumberContainer";
@@ -89,7 +89,7 @@ const GameScreen = ({ userNumber, onGameOver }) => {
           </View>
         </View>
       </Card>
-      <ScrollView showsVerticalScrollIndicator={false}>
+      <View style={{ flex: 1 }}>
         {/* {guessRounds.map((round) => (
           <Text key={round}>{round}</Text>
         ))} */}
@@ -103,7 +103,7 @@ const GameScreen = ({ userNumber, onGameOver }) => {
             />
           )}
         />
-      </ScrollView>
+      </View>
     </View>
   );
 };
@@ -114,6 +114,7 @@ const styles = StyleSheet.create({
   screen: {
     flex: 1,
     padding: 50,
+    alignItems: "center",
   },
   instructionText: {
     marginBottom: 12,
