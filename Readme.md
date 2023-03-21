@@ -4,11 +4,11 @@ This is a simple Guess My Number game created using React Native Expo. The game 
 
 ## Demo
 
-![Game Start Screen](https://user-images.githubusercontent.com/72348711/226542359-75af3d94-5d72-4fc8-a638-a42b42dc4e9e.jpg)
-![Game Screen](https://user-images.githubusercontent.com/72348711/226542465-866140ba-7d8d-469c-b455-c6354a78daf6.jpg)
-![Invalid Attempt](https://user-images.githubusercontent.com/72348711/226542567-82c1c14d-4a37-422a-81ad-28779d2be7cc.jpg)
-![Guess Logs](https://user-images.githubusercontent.com/72348711/226542665-b3e94b65-fc82-4b18-b794-f935cfdc1206.jpg)
-![Game Over Screen](https://user-images.githubusercontent.com/72348711/226542765-a8bbe9c1-2aa3-4b92-939d-ac3abfed7738.jpg)
+<img src="https://user-images.githubusercontent.com/72348711/226542359-75af3d94-5d72-4fc8-a638-a42b42dc4e9e.jpg" alt="Game Start Screen" width="300">
+<img src="https://user-images.githubusercontent.com/72348711/226542465-866140ba-7d8d-469c-b455-c6354a78daf6.jpg" alt="Game Screen" width="300">
+<img src="https://user-images.githubusercontent.com/72348711/226542567-82c1c14d-4a37-422a-81ad-28779d2be7cc.jpg" alt="Invalid Attempt" width="300">
+<img src="https://user-images.githubusercontent.com/72348711/226542665-b3e94b65-fc82-4b18-b794-f935cfdc1206.jpg" alt="Guess Logs" width="300">
+<img src="https://user-images.githubusercontent.com/72348711/226542765-a8bbe9c1-2aa3-4b92-939d-ac3abfed7738.jpg" alt="Game Over Screen" width="300">
 
 ## Installation
 
